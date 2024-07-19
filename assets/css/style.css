@@ -8,3 +8,36 @@ body {
 .navbar-brand, .nav-link, .footer a {
     color: #fff;
 }
+.section-title {
+    margin: 20px 0;
+}
+.section-title h5 {
+    color: #fff;
+}
+
+.netflixLogo {
+    width: 100%;
+    height: auto;
+}
+
+.netflixImg {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+.netflixItem {
+    margin-bottom: 20px;
+    
+}
+
+.netflixImg:hover {
+    transform: scale(1.3);
+    z-index: 100;
+}
+
+@media (min-width: 768px) {
+    .netflixImg:hover {
+        transform: scale(1.7);
+        z-index: 100;
+    }
+}
