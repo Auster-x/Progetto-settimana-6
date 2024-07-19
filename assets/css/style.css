@@ -3,7 +3,7 @@ body {
     color: #fff;
 }
 .navbar, .footer {
-    background-color: #000;
+    background-color: #000 !important; 
 }
 .navbar-brand, .nav-link, .footer a {
     color: #fff;
@@ -15,9 +15,9 @@ body {
     color: #fff;
 }
 
-.netflixLogo {
-    width: 100%;
-    height: auto;
+.netflixLetterLogo {
+    width: 30px;
+
 }
 
 .netflixImg {
