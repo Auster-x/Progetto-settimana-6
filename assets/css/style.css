@@ -52,7 +52,8 @@ body {
     z-index: 100;
 }
 
-.searchIcon {
-    width: 20px;
-    height: 20px;
+.netflixIcon {
+    width: 30px;
+    height: 30px;
+    margin: 0.5em;
 }
