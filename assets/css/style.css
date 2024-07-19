@@ -1,0 +1,10 @@
+body {
+    background-color: #141414;
+    color: #fff;
+}
+.navbar, .footer {
+    background-color: #000;
+}
+.navbar-brand, .nav-link, .footer a {
+    color: #fff;
+}
